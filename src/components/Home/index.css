@@ -1,0 +1,16 @@
+.list {
+  display: flex;
+  align-items: center;
+}
+
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.image {
+  width: 30vw;
+  height: 30vw;
+}

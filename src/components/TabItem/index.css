@@ -1,0 +1,21 @@
+.btn {
+  height: 32px;
+  width: 136px;
+  background-color: transparent;
+  color: #db1c48;
+  border: 2px solid #db1c48;
+  border-radius: 16px;
+}
+
+.active {
+  background-color: #db1c48;
+  color: white;
+}
+.item {
+  list-style-type: none;
+  margin: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
